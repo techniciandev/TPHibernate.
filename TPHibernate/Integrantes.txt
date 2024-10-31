@@ -1,0 +1,7 @@
+-- Integrantes trabajo practico evaluativo java Hibernate --
+
+- Facundo 
+- Carolina 
+- Tatiana 
+- Gabriel 
+- Carlos 
